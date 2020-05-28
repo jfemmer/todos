@@ -20,7 +20,6 @@ public class Todo {
 
 
 
-
     public Todo(String title, String description, boolean complete){
         this.title = title;
         this.description = description;
